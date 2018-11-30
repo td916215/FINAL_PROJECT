@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1543534768 source:d:\computer programming\final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1543534656 d:\computer programming\final_project\game.h
+
+1543587064 source:f:\computer programming\final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1543587104 f:\computer programming\final_project\game.h
+
